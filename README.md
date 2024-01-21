@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at HIØ
+A Bachelor's student at HIØ studying "Informatikk" with a frequent part-time job at Elkjøp Halden, as a Salesperson.
 
 
 ## 🌐 Socials:
