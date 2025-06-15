@@ -15,7 +15,7 @@ Always open to exciting conversations, so don't hesitate to reach out!
 
 ## 📁 Portfolio
 Check out my portfolio 
-👉 [Portfolio](https://emilb.pages.dev/#/)
+👉 [Portfolio](https://emilb.pages.dev/)
 
 
 
