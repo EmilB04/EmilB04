@@ -1,11 +1,9 @@
-<header>
-<h1 align="center">Hi 👋, I'm Emil</h1>
 <div align="center">
-
-**`Bachelor Student in Computer Science - Specialization in Programming`**
-
+  
+  ![Header](./EmilB04_header.png)
 </div>
 
+<header>
 <h2>🧐 About me:</h2>
 I am a dedicated and curious student with a strong passion for both technology and programming.
 
