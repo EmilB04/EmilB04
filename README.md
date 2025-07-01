@@ -60,3 +60,8 @@ Check out my portfolio
 
   
 </main>
+
+## Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EmilB04?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
