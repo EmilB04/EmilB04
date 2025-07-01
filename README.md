@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](./EmilB04_header.png)
+  ![Header](./github_header.png)
 </div>
 
 <header>
