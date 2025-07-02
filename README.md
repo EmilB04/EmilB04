@@ -1,21 +1,32 @@
+
 <div align="center">
   
   ![Header](./github_header.png)
 </div>
 
-<header>
-<h2>🧐 About me:</h2>
-I am a dedicated and curious student with a strong passion for both technology and programming.
 
-I am studying Computer Science – Design and Development of IT Systems at Østfold University College and aim to complete my bachelor's degree in the summer of 2026 (if all goes according to plan 🤞).
 
-When I'm not deeply immersed in code, I work as a sales advisor at Elkjøp, where I not only help people find the right technology but also refine my social skills (and no, I’m not always trying to sell you the most expensive option… maybe).
+<table>
+  <tr>
+    <td>
+      <h2>🧐 About me:</h2>
+      <p>
+        I am a dedicated and curious student with a strong passion for both technology and programming.<br><br> 
+        
+I am studying Computer Science – Design and Development of IT Systems at Østfold University College and aim to complete my bachelor's degree in the summer of 2026 (if all goes according to plan 🤞).<br><br>
 
-In my free time, I try to learn Vue and Quasar or stay social in every possible way—whether it's attending events, gaming with friends, or meeting up in other ways.
+When I'm not deeply immersed in code, I work as a sales advisor at Elkjøp, where I not only help people find the right technology but also refine my social skills (and no, I’m not always trying to sell you the most expensive option… maybe).<br><br>
+
+In my free time, I try to learn Vue and Quasar or stay social in every possible way—whether it's attending events, gaming with friends, or meeting up in other ways.<br><br>
 
 Always open to exciting conversations, so don't hesitate to reach out!
-
-</header>
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+    </td>
+  </tr>
+</table>
 
 
 <main>
@@ -46,8 +57,8 @@ Always open to exciting conversations, so don't hesitate to reach out!
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br />
-<h2>📁 Portfolio</h2>
-Check out my portfolio 
+<h2>📁 Check out my Portfolio:</h2>
+
 👉 [Portfolio](https://emilb.pages.dev/)
 
 
@@ -81,10 +92,3 @@ Check out my portfolio
   </tr>
 </table>
 </div>
-
-<div align="center">
-  
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EmilB04?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  
-</div>
-
-
