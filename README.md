@@ -19,7 +19,7 @@ Always open to exciting conversations, so don't hesitate to reach out!
 
 
 <main>
-  
+<br />
 <h2>💻 Tech Stack: </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,13 +45,14 @@ Always open to exciting conversations, so don't hesitate to reach out!
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## 📁 Portfolio
+<br />
+<h2>📁 Portfolio</h2>
 Check out my portfolio 
 👉 [Portfolio](https://emilb.pages.dev/)
 
 
-
-## 🌐Connect with me:</h3>
+<br />
+<h2> 🌐Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/emil-berglund-336135251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-berglund-336135251" height="30" width="40" /></a>
 </p>
@@ -61,7 +62,29 @@ Check out my portfolio
   
 </main>
 
-## Stats
+<br />
+<h2>📊 GitHub Stats:</h2>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EmilB04?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+<div align="center">
+  <table>
+  <tr>
+    <td align="center">
+      <a href="https://githubtrends.io/user/EmilB04">
+        <img src="https://api.githubtrends.io/user/svg/EmilB04/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://githubtrends.io/user/EmilB04">
+        <img src="https://api.githubtrends.io/user/svg/EmilB04/repos?time_range=one_year&include_private=True&theme=dark" alt="Repo Activity" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/EmilB04?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)  
+</div>
+
 
