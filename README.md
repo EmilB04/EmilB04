@@ -72,23 +72,3 @@ Always open to exciting conversations, so don't hesitate to reach out!
 
   
 </main>
-
-<br />
-<h2>📊 GitHub Stats:</h2>
-
-<div align="center">
-  <table>
-  <tr>
-    <td align="center">
-      <a href="https://githubtrends.io/user/EmilB04">
-        <img src="https://api.githubtrends.io/user/svg/EmilB04/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://githubtrends.io/user/EmilB04">
-        <img src="https://api.githubtrends.io/user/svg/EmilB04/repos?time_range=one_year&include_private=True&theme=dark" alt="Repo Activity" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
