@@ -1,0 +1,201 @@
+{
+  "format": "readme-studio/design",
+  "version": 1,
+  "exportedAt": "2026-10-21T01:22:23.168Z",
+  "name": "Design 1",
+  "username": "Emilb04",
+  "assetDir": "assets",
+  "theme": {
+    "locale": "nb",
+    "card": {
+      "preset": "olive",
+      "font": "sans",
+      "headingFont": "book",
+      "radius": 18,
+      "borderWidth": 1,
+      "padding": 24,
+      "titleSize": 16
+    }
+  },
+  "blocks": [
+    {
+      "id": "cK5wFsqT",
+      "type": "profileHero",
+      "visible": true,
+      "username": "Emilb04",
+      "greeting": "Hei, velkommen innom",
+      "headline": "Fra idé til kode.",
+      "role": "Fullstack-utvikler",
+      "location": "",
+      "intro": "Jeg lager verktøy for weben og deler det jeg lærer underveis. Under finner du prosjektene jeg jobber med akkurat nå, og hva jeg har pushet den siste tiden.",
+      "links": [
+        {
+          "label": "Prosjekter",
+          "url": "#prosjekter"
+        },
+        {
+          "label": "Siste aktivitet",
+          "url": "#siste-aktivitet"
+        }
+      ],
+      "showAvatar": true,
+      "card": {
+        "preset": "midnight",
+        "inherit": true
+      }
+    },
+    {
+      "id": "fEzNVxMY",
+      "type": "metricStrip",
+      "visible": true,
+      "username": "Emilb04",
+      "metrics": [
+        "contributions",
+        "currentStreak",
+        "stars",
+        "mergedPrs"
+      ],
+      "tileWidth": 200,
+      "align": "left",
+      "card": {
+        "preset": "midnight",
+        "inherit": true
+      }
+    },
+    {
+      "id": "c7btTJVP",
+      "type": "activityGraph",
+      "visible": true,
+      "username": "Emilb04",
+      "scheme": "dark",
+      "weeks": 30,
+      "chartType": "bar",
+      "animated": false,
+      "align": "left",
+      "renderer": "custom",
+      "card": {
+        "preset": "midnight",
+        "inherit": true,
+        "cardWidth": 854
+      },
+      "custom": {
+        "chart": "heatmap",
+        "weeks": 53,
+        "cellSize": 11,
+        "cellGap": 3,
+        "cellRadius": 3,
+        "palette": "custom",
+        "showLegend": true,
+        "showMonths": true,
+        "showWeekdays": true,
+        "showTotal": true,
+        "groupBy": "week",
+        "smooth": true,
+        "scale": [
+          "34431F",
+          "A8CF5E"
+        ]
+      }
+    },
+    {
+      "id": "CDrKOvqo",
+      "type": "customMarkdown",
+      "visible": true,
+      "markdown": "### Prosjekter"
+    },
+    {
+      "id": "9WVqiN9p",
+      "type": "repoCards",
+      "visible": true,
+      "repos": [
+        {
+          "owner": "",
+          "repo": ""
+        }
+      ],
+      "theme": "default",
+      "hideBorder": false,
+      "showOwner": false,
+      "hideDescription": false,
+      "borderRadius": 8,
+      "perRow": 2,
+      "align": "left",
+      "renderer": "custom",
+      "card": {
+        "preset": "midnight",
+        "inherit": true,
+        "cardWidth": 410,
+        "accent": "EEE8D5"
+      },
+      "custom": {
+        "layout": "card",
+        "showStars": true,
+        "showForks": true,
+        "showLanguage": true,
+        "showTopics": false,
+        "showUpdated": false,
+        "descriptionLines": 2,
+        "equalHeight": true
+      }
+    },
+    {
+      "id": "EEN5X28l",
+      "type": "customMarkdown",
+      "visible": true,
+      "markdown": "### Siste aktivitet"
+    },
+    {
+      "id": "RhA058xg",
+      "type": "recentActivity",
+      "visible": true,
+      "username": "Emilb04",
+      "source": "commits",
+      "count": 6,
+      "showTimestamp": true,
+      "align": "left",
+      "card": {
+        "preset": "midnight",
+        "inherit": true,
+        "hideTitle": true
+      }
+    },
+    {
+      "id": "_aEeEWbh",
+      "type": "techStack",
+      "visible": true,
+      "icons": [
+        "js",
+        "ts",
+        "react",
+        "nodejs",
+        "nextjs",
+        "tailwind"
+      ],
+      "theme": "auto",
+      "iconType": "themed",
+      "perLine": 12,
+      "align": "left",
+      "badgeTone": "theme",
+      "heading": "Verktøy"
+    },
+    {
+      "id": "_IsJ8OLc",
+      "type": "socialLinks",
+      "visible": true,
+      "style": "for-the-badge",
+      "align": "left",
+      "links": [
+        {
+          "platform": "website",
+          "value": ""
+        },
+        {
+          "platform": "email",
+          "value": ""
+        }
+      ],
+      "heading": "Kontakt",
+      "display": "text"
+    }
+  ]
+}

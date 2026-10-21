@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="366" viewBox="0 0 854 366" role="img" aria-label="Siste commits">
+<title>Siste commits</title>
+<defs></defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #D9D3BF; }
+  .title { font-size: 16px; font-weight: 700; fill: #EEE8D5; }
+  .muted { fill: #8E8C76; }
+  .accent { fill: #F0883E; }
+  
+  .heading { fill: #EEE8D5; }
+  .dot-accent { fill: #F0883E; }
+  .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+  .sha { font-size: 11px; }
+</style>
+<rect x="0.5" y="0.5" width="853" height="365" rx="18" fill="#1C1F15" stroke="#33372A" stroke-width="1" stroke-opacity="1"/>
+
+<text x="830" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 21. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Merge pull request #5 from EmilB04:development</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">79c0a0a</tspan></text>
+<text x="830" y="48" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<line x1="46" x2="830" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="98" font-size="14">feat(i18n): add tech category translations for English and Norwegian</text>
+<text x="46" y="116" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">5b79530</tspan></text>
+<text x="830" y="98" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<line x1="46" x2="830" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="148" font-size="14">feat: add auto-update feature for README cards with GitHub Actions</text>
+<text x="46" y="166" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">9ca4270</tspan></text>
+<text x="830" y="148" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<line x1="46" x2="830" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="198" font-size="14">feat: add onboarding steps and related functionality</text>
+<text x="46" y="216" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">c5a8f62</tspan></text>
+<text x="830" y="198" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<line x1="46" x2="830" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="248" font-size="14">Merge pull request #90 from EmilB04:development</text>
+<text x="46" y="266" font-size="12" class="muted">EmilB04/PortfolioPortal<tspan class="sha mono" dx="10">f551e7e</tspan></text>
+<text x="830" y="248" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<line x1="46" x2="830" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="298" font-size="14">feat: add functionality to like and unlike tracks in Spotify</text>
+<text x="46" y="316" font-size="12" class="muted">EmilB04/PortfolioPortal<tspan class="sha mono" dx="10">bb8d06f</tspan></text>
+<text x="830" y="298" text-anchor="end" font-size="12" class="muted">21. okt</text>
+</svg>
