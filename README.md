@@ -14,6 +14,3 @@ Jeg lager verktøy for weben og deler det jeg lærer underveis. Under finner du 
 
 [![Siste commits](./assets/activity-RhA058xg.svg)](https://github.com/Emilb04)
 
-### Verktøy
-
-![Tech Stack](https://skillicons.dev/icons?i=js%2Cts%2Creact%2Cnodejs%2Cnextjs%2Ctailwind&theme=dark&perline=12)
