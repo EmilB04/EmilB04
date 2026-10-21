@@ -1,7 +1,7 @@
 {
   "format": "readme-studio/design",
   "version": 1,
-  "exportedAt": "2026-10-21T01:22:23.168Z",
+  "exportedAt": "2026-10-21T11:34:35.538Z",
   "name": "Design 1",
   "username": "Emilb04",
   "assetDir": "assets",
@@ -19,7 +19,7 @@
   },
   "blocks": [
     {
-      "id": "cK5wFsqT",
+      "id": "nl3XsBSs",
       "type": "profileHero",
       "visible": true,
       "username": "Emilb04",
@@ -41,29 +41,52 @@
       "showAvatar": true,
       "card": {
         "preset": "midnight",
-        "inherit": true
-      }
+        "inherit": true,
+        "radius": 28,
+        "borderWidth": 0,
+        "padding": 28,
+        "font": "sans",
+        "headingFont": "book"
+      },
+      "placement": {
+        "responsive": true
+      },
+      "layout": "split",
+      "pattern": "none",
+      "avatarSide": "right",
+      "avatarShape": "circle"
     },
     {
-      "id": "fEzNVxMY",
+      "id": "66H31D_7",
       "type": "metricStrip",
       "visible": true,
       "username": "Emilb04",
       "metrics": [
         "contributions",
-        "currentStreak",
-        "stars",
-        "mergedPrs"
+        "repos",
+        "mergedPrs",
+        "longestStreak"
       ],
       "tileWidth": 200,
       "align": "left",
       "card": {
         "preset": "midnight",
-        "inherit": true
+        "inherit": true,
+        "radius": 28,
+        "borderWidth": 0,
+        "padding": 28,
+        "font": "rounded",
+        "headingFont": "rounded"
+      },
+      "placement": {
+        "responsive": true,
+        "align": "center",
+        "imageWidth": 0,
+        "spaceAfter": 0
       }
     },
     {
-      "id": "c7btTJVP",
+      "id": "CjZ_L4ae",
       "type": "activityGraph",
       "visible": true,
       "username": "Emilb04",
@@ -74,9 +97,14 @@
       "align": "left",
       "renderer": "custom",
       "card": {
-        "preset": "midnight",
+        "preset": "olive",
         "inherit": true,
-        "cardWidth": 854
+        "cardWidth": 854,
+        "radius": 28,
+        "borderWidth": 0,
+        "padding": 28,
+        "font": "rounded",
+        "headingFont": "rounded"
       },
       "custom": {
         "chart": "heatmap",
@@ -95,22 +123,32 @@
           "34431F",
           "A8CF5E"
         ]
+      },
+      "placement": {
+        "responsive": true
       }
     },
     {
-      "id": "CDrKOvqo",
+      "id": "7GU4aHcJ",
       "type": "customMarkdown",
       "visible": true,
-      "markdown": "### Prosjekter"
+      "markdown": "### Prosjekter",
+      "placement": {
+        "responsive": true
+      }
     },
     {
-      "id": "9WVqiN9p",
+      "id": "pjfxjFLP",
       "type": "repoCards",
       "visible": true,
       "repos": [
         {
-          "owner": "",
-          "repo": ""
+          "owner": "EmilB04",
+          "repo": "LumaBridge"
+        },
+        {
+          "owner": "EmilB04",
+          "repo": "StreamDeck"
         }
       ],
       "theme": "default",
@@ -125,7 +163,12 @@
         "preset": "midnight",
         "inherit": true,
         "cardWidth": 410,
-        "accent": "EEE8D5"
+        "accent": "EEE8D5",
+        "radius": 28,
+        "borderWidth": 0,
+        "padding": 28,
+        "font": "sans",
+        "headingFont": "serif"
       },
       "custom": {
         "layout": "card",
@@ -136,16 +179,22 @@
         "showUpdated": false,
         "descriptionLines": 2,
         "equalHeight": true
+      },
+      "placement": {
+        "responsive": true
       }
     },
     {
-      "id": "EEN5X28l",
+      "id": "txVLd4L1",
       "type": "customMarkdown",
       "visible": true,
-      "markdown": "### Siste aktivitet"
+      "markdown": "### Siste aktivitet",
+      "placement": {
+        "responsive": true
+      }
     },
     {
-      "id": "RhA058xg",
+      "id": "k_v39XOF",
       "type": "recentActivity",
       "visible": true,
       "username": "Emilb04",
@@ -156,30 +205,60 @@
       "card": {
         "preset": "midnight",
         "inherit": true,
-        "hideTitle": true
+        "hideTitle": true,
+        "radius": 28,
+        "borderWidth": 0,
+        "padding": 28,
+        "font": "sans",
+        "headingFont": "serif"
+      },
+      "placement": {
+        "responsive": true
       }
     },
     {
-      "id": "_aEeEWbh",
+      "id": "ZkQlvvMM",
       "type": "techStack",
       "visible": true,
       "icons": [
-        "js",
-        "ts",
         "react",
         "nodejs",
         "nextjs",
-        "tailwind"
+        "html",
+        "css",
+        "sass",
+        "tailwindcss",
+        "typescript",
+        "javascript",
+        "dotnet",
+        "java",
+        "python",
+        "powershell",
+        "mysql",
+        "supabase",
+        "azure",
+        "cloudflare",
+        "git",
+        "github",
+        "vite",
+        "vitest",
+        "docker",
+        "figma"
       ],
       "theme": "auto",
       "iconType": "themed",
       "perLine": 12,
       "align": "left",
-      "badgeTone": "theme",
-      "heading": "Verktøy"
+      "heading": "Verktøy",
+      "display": "icons",
+      "badgeTone": "brand",
+      "grouped": false,
+      "placement": {
+        "responsive": true
+      }
     },
     {
-      "id": "_IsJ8OLc",
+      "id": "nW-9jb7S",
       "type": "socialLinks",
       "visible": true,
       "style": "for-the-badge",
@@ -195,7 +274,10 @@
         }
       ],
       "heading": "Kontakt",
-      "display": "text"
+      "display": "text",
+      "placement": {
+        "responsive": true
+      }
     }
   ]
 }

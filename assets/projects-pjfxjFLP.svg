@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="124" viewBox="0 0 854 124" role="img" aria-label="Featured projects"><title>Featured projects</title><svg x="0" y="0" xmlns="http://www.w3.org/2000/svg" width="421" height="124" viewBox="0 0 421 124" role="img" aria-label="LumaBridge">
+<title>LumaBridge</title>
+<defs></defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #D9D3BF; }
+  .title { font-size: 16px; font-weight: 700; fill: #EEE8D5; }
+  .muted { fill: #8E8C76; }
+  .accent { fill: #EEE8D5; }
+  
+  
+</style>
+<rect x="0" y="0" width="421" height="124" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
+
+<g>
+<g transform="translate(20 18) scale(1)" fill="none" stroke="#8E8C76" stroke-width="1.40" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2.5h8.5a1 1 0 0 1 1 1v10H4a1 1 0 0 1-1-1z"/><path d="M3 11.5a1 1 0 0 1 1-1h8.5"/></g>
+<text x="44" y="31" font-size="15" font-weight="700" fill="#EEE8D5">LumaBridge</text>
+
+<text x="20" y="58" font-size="13">Bring Dynamic Lighting Effects to more of your</text><text x="20" y="76" font-size="13">devices</text>
+
+<circle cx="26" cy="104" r="6" fill="#F34B7D"/><text x="40" y="108" font-size="12" class="muted">C++</text><g transform="translate(75 97) scale(0.875)" fill="none" stroke="#8E8C76" stroke-width="1.60" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1.5l1.9 4 4.4.5-3.3 3 .9 4.3L8 11.1l-3.9 2.2.9-4.3-3.3-3 4.4-.5z"/></g><text x="95" y="108" font-size="12" class="muted">0</text><g transform="translate(116 97) scale(0.875)" fill="none" stroke="#8E8C76" stroke-width="1.60" stroke-linecap="round" stroke-linejoin="round"><circle cx="4" cy="3" r="1.6"/><circle cx="12" cy="3" r="1.6"/><circle cx="8" cy="13" r="1.6"/><path d="M4 4.6v1.4a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2V4.6M8 8v3.4"/></g><text x="136" y="108" font-size="12" class="muted">0</text>
+</g>
+</svg>
+<svg x="433" y="0" xmlns="http://www.w3.org/2000/svg" width="421" height="124" viewBox="0 0 421 124" role="img" aria-label="StreamDeck">
+<title>StreamDeck</title>
+<defs></defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #D9D3BF; }
+  .title { font-size: 16px; font-weight: 700; fill: #EEE8D5; }
+  .muted { fill: #8E8C76; }
+  .accent { fill: #EEE8D5; }
+  
+  
+</style>
+<rect x="0" y="0" width="421" height="124" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
+
+<g>
+<g transform="translate(20 18) scale(1)" fill="none" stroke="#8E8C76" stroke-width="1.40" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2.5h8.5a1 1 0 0 1 1 1v10H4a1 1 0 0 1-1-1z"/><path d="M3 11.5a1 1 0 0 1 1-1h8.5"/></g>
+<text x="44" y="31" font-size="15" font-weight="700" fill="#EEE8D5">StreamDeck</text>
+
+<text x="20" y="58" font-size="13">Monitor peripheral battery levels at a glance</text>
+
+<circle cx="26" cy="104" r="6" fill="#3178C6"/><text x="40" y="108" font-size="12" class="muted">TypeScript</text><g transform="translate(124 97) scale(0.875)" fill="none" stroke="#8E8C76" stroke-width="1.60" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1.5l1.9 4 4.4.5-3.3 3 .9 4.3L8 11.1l-3.9 2.2.9-4.3-3.3-3 4.4-.5z"/></g><text x="144" y="108" font-size="12" class="muted">0</text><g transform="translate(165 97) scale(0.875)" fill="none" stroke="#8E8C76" stroke-width="1.60" stroke-linecap="round" stroke-linejoin="round"><circle cx="4" cy="3" r="1.6"/><circle cx="12" cy="3" r="1.6"/><circle cx="8" cy="13" r="1.6"/><path d="M4 4.6v1.4a2 2 0 0 0 2 2h4a2 2 0 0 0 2-2V4.6M8 8v3.4"/></g><text x="185" y="108" font-size="12" class="muted">0</text>
+</g>
+</svg></svg>
