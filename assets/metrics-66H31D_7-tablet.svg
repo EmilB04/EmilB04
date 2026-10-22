@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="248" viewBox="0 0 600 248" role="img" aria-label="GitHub metrics"><title>GitHub metrics</title><svg x="0" y="0" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Bidrag: 2 637, siste 12 måneder">
-<title>Bidrag: 2 637, siste 12 måneder</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="248" viewBox="0 0 600 248" role="img" aria-label="GitHub metrics"><title>GitHub metrics</title><svg x="0" y="0" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Bidrag: 2 648, siste 12 måneder">
+<title>Bidrag: 2 648, siste 12 måneder</title>
 <defs></defs>
 <style>
   text { font-family: ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', sans-serif; fill: #D9D3BF; }
@@ -14,11 +14,11 @@
 <rect x="0" y="0" width="294" height="118" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
 <text x="20" y="32" font-size="13" class="muted">Bidrag</text>
-<text x="20" y="76" font-size="38" class="num">2 637</text>
+<text x="20" y="76" font-size="38" class="num">2 648</text>
 <text x="20" y="100" font-size="12" class="muted">siste 12 måneder</text>
 </svg>
-<svg x="306" y="0" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Repoer: 40, offentlige">
-<title>Repoer: 40, offentlige</title>
+<svg x="306" y="0" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Repoer: 32, offentlige">
+<title>Repoer: 32, offentlige</title>
 <defs></defs>
 <style>
   text { font-family: ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', sans-serif; fill: #D9D3BF; }
@@ -33,11 +33,11 @@
 <rect x="0" y="0" width="294" height="118" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
 <text x="20" y="32" font-size="13" class="muted">Repoer</text>
-<text x="20" y="76" font-size="38" class="num">40</text>
+<text x="20" y="76" font-size="38" class="num">32</text>
 <text x="20" y="100" font-size="12" class="muted">offentlige</text>
 </svg>
-<svg x="0" y="130" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Flettede PR-er: 501, totalt">
-<title>Flettede PR-er: 501, totalt</title>
+<svg x="0" y="130" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Flettede PR-er: 216, totalt">
+<title>Flettede PR-er: 216, totalt</title>
 <defs></defs>
 <style>
   text { font-family: ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', sans-serif; fill: #D9D3BF; }
@@ -52,11 +52,11 @@
 <rect x="0" y="0" width="294" height="118" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
 <text x="20" y="32" font-size="13" class="muted">Flettede PR-er</text>
-<text x="20" y="76" font-size="38" class="num">501</text>
+<text x="20" y="76" font-size="38" class="num">216</text>
 <text x="20" y="100" font-size="12" class="muted">totalt</text>
 </svg>
-<svg x="306" y="130" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Lengste rekke: 17 dager, siste 12 måneder">
-<title>Lengste rekke: 17 dager, siste 12 måneder</title>
+<svg x="306" y="130" xmlns="http://www.w3.org/2000/svg" width="294" height="118" viewBox="0 0 294 118" role="img" aria-label="Lengste rekke: 18 dager, siste 12 måneder">
+<title>Lengste rekke: 18 dager, siste 12 måneder</title>
 <defs></defs>
 <style>
   text { font-family: ui-rounded, 'SF Pro Rounded', 'Nunito', 'Segoe UI', sans-serif; fill: #D9D3BF; }
@@ -71,6 +71,6 @@
 <rect x="0" y="0" width="294" height="118" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
 <text x="20" y="32" font-size="13" class="muted">Lengste rekke</text>
-<text x="20" y="76" font-size="38" class="num">17</text><text x="72.08" y="76" font-size="14" class="muted">dager</text>
+<text x="20" y="76" font-size="38" class="num">18</text><text x="72.08" y="76" font-size="14" class="muted">dager</text>
 <text x="20" y="100" font-size="12" class="muted">siste 12 måneder</text>
 </svg></svg>

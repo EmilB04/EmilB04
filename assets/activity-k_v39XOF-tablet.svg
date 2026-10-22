@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 21. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="48" font-size="14">Remove 'Verktøy' section from README</text>
-<text x="46" y="66" font-size="12" class="muted">EmilB04/EmilB04<tspan class="sha mono" dx="10">1536998</tspan></text>
-<text x="576" y="48" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 22. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Add epidemic simulation and evolutionary optimization feat…</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">7c78127</tspan></text>
+<text x="576" y="48" text-anchor="end" font-size="12" class="muted">22. okt</text>
 <line x1="46" x2="576" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="98" font-size="14">Update README</text>
-<text x="46" y="116" font-size="12" class="muted">EmilB04/EmilB04<tspan class="sha mono" dx="10">71f9dc8</tspan></text>
-<text x="576" y="98" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="46" y="98" font-size="14">Update requirements.txt with specific package versions</text>
+<text x="46" y="116" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">46e1721</tspan></text>
+<text x="576" y="98" text-anchor="end" font-size="12" class="muted">22. okt</text>
 <line x1="46" x2="576" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="148" font-size="14">Merge pull request #5 from EmilB04:development</text>
-<text x="46" y="166" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">79c0a0a</tspan></text>
-<text x="576" y="148" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="46" y="148" font-size="14">Merge pull request #54 from EmilB04:development</text>
+<text x="46" y="166" font-size="12" class="muted">EmilB04/PortfolioV2<tspan class="sha mono" dx="10">12ecf42</tspan></text>
+<text x="576" y="148" text-anchor="end" font-size="12" class="muted">22. okt</text>
 <line x1="46" x2="576" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="198" font-size="14">feat(i18n): add tech category translations for English and…</text>
-<text x="46" y="216" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">5b79530</tspan></text>
-<text x="576" y="198" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="46" y="198" font-size="14">chore: update i18next and vite dependencies to latest vers…</text>
+<text x="46" y="216" font-size="12" class="muted">EmilB04/PortfolioV2<tspan class="sha mono" dx="10">ad4b7bc</tspan></text>
+<text x="576" y="198" text-anchor="end" font-size="12" class="muted">22. okt</text>
 <line x1="46" x2="576" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="248" font-size="14">feat: add auto-update feature for README cards with GitHub…</text>
-<text x="46" y="266" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">9ca4270</tspan></text>
-<text x="576" y="248" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="46" y="248" font-size="14">feat: add PRERENDER_SUPABASE_URL support for build-time pr…</text>
+<text x="46" y="266" font-size="12" class="muted">EmilB04/PortfolioV2<tspan class="sha mono" dx="10">d59816b</tspan></text>
+<text x="576" y="248" text-anchor="end" font-size="12" class="muted">22. okt</text>
 <line x1="46" x2="576" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="298" font-size="14">feat: add onboarding steps and related functionality</text>
-<text x="46" y="316" font-size="12" class="muted">EmilB04/README-generator<tspan class="sha mono" dx="10">c5a8f62</tspan></text>
-<text x="576" y="298" text-anchor="end" font-size="12" class="muted">21. okt</text>
+<text x="46" y="298" font-size="14">Add .gitignore and requirements.txt files</text>
+<text x="46" y="316" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">6a58b64</tspan></text>
+<text x="576" y="298" text-anchor="end" font-size="12" class="muted">22. okt</text>
 </svg>
