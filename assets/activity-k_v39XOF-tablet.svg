@@ -14,7 +14,7 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 25. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 26. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
 <text x="46" y="48" font-size="14">feat: v1.2.3, new icon from a real key face</text>
 <text x="46" y="66" font-size="12" class="muted">EmilB04/StreamDeck<tspan class="sha mono" dx="10">2b4c938</tspan></text>
 <text x="576" y="48" text-anchor="end" font-size="12" class="muted">22. okt</text>
