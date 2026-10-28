@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 27. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="48" font-size="14">Merge pull request #58 from SpillArena:development</text>
-<text x="46" y="66" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">2739547</tspan></text>
-<text x="576" y="48" text-anchor="end" font-size="12" class="muted">26. okt</text>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 28. okt. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Merge pull request #55 from EmilB04/development</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/PortfolioV2<tspan class="sha mono" dx="10">3b86376</tspan></text>
+<text x="576" y="48" text-anchor="end" font-size="12" class="muted">27. okt</text>
 <line x1="46" x2="576" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="98" font-size="14">v1.15.1. Improve animations in auth, improve footer and up…</text>
-<text x="46" y="116" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">1fc0d15</tspan></text>
-<text x="576" y="98" text-anchor="end" font-size="12" class="muted">26. okt</text>
+<text x="46" y="98" font-size="14">Merge pull request #60 from SpillArena:development</text>
+<text x="46" y="116" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">6c0cafa</tspan></text>
+<text x="576" y="98" text-anchor="end" font-size="12" class="muted">27. okt</text>
 <line x1="46" x2="576" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="148" font-size="14">chore: update dependencies in package.json</text>
-<text x="46" y="166" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">4883aa8</tspan></text>
-<text x="576" y="148" text-anchor="end" font-size="12" class="muted">26. okt</text>
+<text x="46" y="148" font-size="14">chore: update version to 1.16.0 and add changelog entries…</text>
+<text x="46" y="166" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">bd50b09</tspan></text>
+<text x="576" y="148" text-anchor="end" font-size="12" class="muted">27. okt</text>
 <line x1="46" x2="576" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="198" font-size="14">refactor: Improve design for admin login</text>
-<text x="46" y="216" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">c6caec6</tspan></text>
-<text x="576" y="198" text-anchor="end" font-size="12" class="muted">26. okt</text>
+<text x="46" y="198" font-size="14">Merge pull request #59 from SpillArena/development</text>
+<text x="46" y="216" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">143714a</tspan></text>
+<text x="576" y="198" text-anchor="end" font-size="12" class="muted">27. okt</text>
 <line x1="46" x2="576" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="248" font-size="14">feat: v1.2.3, new icon from a real key face</text>
-<text x="46" y="266" font-size="12" class="muted">EmilB04/StreamDeck<tspan class="sha mono" dx="10">2b4c938</tspan></text>
-<text x="576" y="248" text-anchor="end" font-size="12" class="muted">22. okt</text>
+<text x="46" y="248" font-size="14">disable hitline</text>
+<text x="46" y="266" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">db9191a</tspan></text>
+<text x="576" y="248" text-anchor="end" font-size="12" class="muted">27. okt</text>
 <line x1="46" x2="576" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="298" font-size="14">feat: v1.2.2, enable Marketplace DRM</text>
-<text x="46" y="316" font-size="12" class="muted">EmilB04/StreamDeck<tspan class="sha mono" dx="10">ecb9d7b</tspan></text>
-<text x="576" y="298" text-anchor="end" font-size="12" class="muted">22. okt</text>
+<text x="46" y="298" font-size="14">Merge pull request #58 from SpillArena:development</text>
+<text x="46" y="316" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">2739547</tspan></text>
+<text x="576" y="298" text-anchor="end" font-size="12" class="muted">26. okt</text>
 </svg>
