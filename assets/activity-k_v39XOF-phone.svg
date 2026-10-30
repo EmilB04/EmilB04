@@ -14,7 +14,7 @@
 </style>
 <rect x="0" y="0" width="320" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="302" y="344" text-anchor="end" font-size="12" class="muted">Oppdatert 29. okt. 2026</text><line x1="23" x2="23" y1="37" y2="297" stroke="#33372A" stroke-width="1.5"/><circle cx="23" cy="37" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="302" y="344" text-anchor="end" font-size="12" class="muted">Oppdatert 30. okt. 2026</text><line x1="23" x2="23" y1="37" y2="297" stroke="#33372A" stroke-width="1.5"/><circle cx="23" cy="37" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
 <text x="40" y="42" font-size="14">Merge pull request #61 from Spil…</text>
 <text x="40" y="60" font-size="12" class="muted">28. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="89" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
