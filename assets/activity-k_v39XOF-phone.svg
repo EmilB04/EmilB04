@@ -14,22 +14,22 @@
 </style>
 <rect x="0" y="0" width="320" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="302" y="344" text-anchor="end" font-size="12" class="muted">Oppdatert 30. okt. 2026</text><line x1="23" x2="23" y1="37" y2="297" stroke="#33372A" stroke-width="1.5"/><circle cx="23" cy="37" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="42" font-size="14">Merge pull request #61 from Spil…</text>
-<text x="40" y="60" font-size="12" class="muted">28. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
+<text x="302" y="344" text-anchor="end" font-size="12" class="muted">Oppdatert 31. okt. 2026</text><line x1="23" x2="23" y1="37" y2="297" stroke="#33372A" stroke-width="1.5"/><circle cx="23" cy="37" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="40" y="42" font-size="14">Merge pull request #63 from Spil…</text>
+<text x="40" y="60" font-size="12" class="muted">30. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="89" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="94" font-size="14">feat: add Cracked as a coming so…</text>
-<text x="40" y="112" font-size="12" class="muted">28. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
+<text x="40" y="94" font-size="14">feat(admin): enhance player mana…</text>
+<text x="40" y="112" font-size="12" class="muted">30. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="141" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="146" font-size="14">Merge pull request #1 from EmilB…</text>
-<text x="40" y="164" font-size="12" class="muted">28. okt<tspan dx="10">EmilB04/Complex-Systems</tspan></text>
+<text x="40" y="146" font-size="14">Merge branch 'work/admin-game-av…</text>
+<text x="40" y="164" font-size="12" class="muted">30. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="198" font-size="14">Release v0.42.0</text>
-<text x="40" y="216" font-size="12" class="muted">28. okt<tspan dx="10">EmilB04/LumaBridge</tspan></text>
+<text x="40" y="198" font-size="14">feat: implement account deletion…</text>
+<text x="40" y="216" font-size="12" class="muted">30. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="245" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="250" font-size="14">Aura: save a still power-on colo…</text>
-<text x="40" y="268" font-size="12" class="muted">28. okt<tspan dx="10">EmilB04/LumaBridge</tspan></text>
+<text x="40" y="250" font-size="14">feat: implement game settings ma…</text>
+<text x="40" y="268" font-size="12" class="muted">30. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 <circle cx="23" cy="297" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="40" y="302" font-size="14">Merge pull request #55 from Emil…</text>
-<text x="40" y="320" font-size="12" class="muted">27. okt<tspan dx="10">EmilB04/PortfolioV2</tspan></text>
+<text x="40" y="302" font-size="14">Merge pull request #61 from Spil…</text>
+<text x="40" y="320" font-size="12" class="muted">28. okt<tspan dx="10">SpillArena/SpillArena</tspan></text>
 </svg>
