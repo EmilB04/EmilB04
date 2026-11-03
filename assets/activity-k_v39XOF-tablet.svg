@@ -14,7 +14,7 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 2. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 3. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
 <text x="46" y="48" font-size="14">Merge pull request #63 from SpillArena:development</text>
 <text x="46" y="66" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">ab748c9</tspan></text>
 <text x="576" y="48" text-anchor="end" font-size="12" class="muted">30. okt</text>
