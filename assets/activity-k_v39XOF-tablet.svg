@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 10. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="48" font-size="14">Merge pull request #4 from EmilB04:feature/c1-c4-controls</text>
-<text x="46" y="66" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">644c9f5</tspan></text>
-<text x="576" y="48" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 11. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Release v0.44.0</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">a47e56b</tspan></text>
+<text x="576" y="48" text-anchor="end" font-size="12" class="muted">10. nov</text>
 <line x1="46" x2="576" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="98" font-size="14">Merge pull request #3 from EmilB04:feature/xgboost-p2-vali…</text>
-<text x="46" y="116" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">3b1da85</tspan></text>
-<text x="576" y="98" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="46" y="98" font-size="14">Nollie: save the boot effect into the hub, two effects, pl…</text>
+<text x="46" y="116" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">6f39d37</tspan></text>
+<text x="576" y="98" text-anchor="end" font-size="12" class="muted">10. nov</text>
 <line x1="46" x2="576" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="148" font-size="14">Merge branch 'main' into feature/xgboost-p2-validation</text>
-<text x="46" y="166" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">d528736</tspan></text>
-<text x="576" y="148" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="46" y="148" font-size="14">Nollie: read what the hub keeps on its own and log it</text>
+<text x="46" y="166" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">85a23d3</tspan></text>
+<text x="576" y="148" text-anchor="end" font-size="12" class="muted">10. nov</text>
 <line x1="46" x2="576" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="198" font-size="14">feat: add validation results and summary for Project 2 exp…</text>
-<text x="46" y="216" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">81447a5</tspan></text>
-<text x="576" y="198" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="46" y="198" font-size="14">Release v0.43.0</text>
+<text x="46" y="216" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">bb1a7f7</tspan></text>
+<text x="576" y="198" text-anchor="end" font-size="12" class="muted">10. nov</text>
 <line x1="46" x2="576" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="248" font-size="14">Add validation results of the tree models on the Project 2…</text>
-<text x="46" y="266" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">807cc3e</tspan></text>
-<text x="576" y="248" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="46" y="248" font-size="14">Add lighting zones, Nollie support and smoother effects</text>
+<text x="46" y="266" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">c0d5b6e</tspan></text>
+<text x="576" y="248" text-anchor="end" font-size="12" class="muted">10. nov</text>
 <line x1="46" x2="576" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="298" font-size="14">Add results of controls C1-C4</text>
-<text x="46" y="316" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">2d138ef</tspan></text>
-<text x="576" y="298" text-anchor="end" font-size="12" class="muted">9. nov</text>
+<text x="46" y="298" font-size="14">Merge pull request #5 from EmilB04/feature/final-model-eva…</text>
+<text x="46" y="316" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">d4fb01f</tspan></text>
+<text x="576" y="298" text-anchor="end" font-size="12" class="muted">10. nov</text>
 </svg>
