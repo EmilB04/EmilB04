@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="854" height="374" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="826" y="342" text-anchor="end" font-size="12" class="muted">Oppdatert 11. nov. 2026</text><circle cx="33" cy="47" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="52" font-size="14">Release v0.44.0</text>
-<text x="50" y="70" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">a47e56b</tspan></text>
-<text x="826" y="52" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="826" y="342" text-anchor="end" font-size="12" class="muted">Oppdatert 12. nov. 2026</text><circle cx="33" cy="47" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="50" y="52" font-size="14">feat: add theme management hook for light, dark, and system preferences</text>
+<text x="50" y="70" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">cfa8252</tspan></text>
+<text x="826" y="52" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="50" x2="826" y1="78.5" y2="78.5" stroke="#33372A"/><circle cx="33" cy="97" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="102" font-size="14">Nollie: save the boot effect into the hub, two effects, play it from the hub</text>
-<text x="50" y="120" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">6f39d37</tspan></text>
-<text x="826" y="102" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="50" y="102" font-size="14">Rename learning platform to MasterPrep</text>
+<text x="50" y="120" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">dc79d57</tspan></text>
+<text x="826" y="102" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="50" x2="826" y1="128.5" y2="128.5" stroke="#33372A"/><circle cx="33" cy="147" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="152" font-size="14">Nollie: read what the hub keeps on its own and log it</text>
-<text x="50" y="170" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">85a23d3</tspan></text>
-<text x="826" y="152" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="50" y="152" font-size="14">Set up learning workspace and import Complex Systems course</text>
+<text x="50" y="170" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">6d7d4f3</tspan></text>
+<text x="826" y="152" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="50" x2="826" y1="178.5" y2="178.5" stroke="#33372A"/><circle cx="33" cy="197" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="202" font-size="14">Release v0.43.0</text>
-<text x="50" y="220" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">bb1a7f7</tspan></text>
-<text x="826" y="202" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="50" y="202" font-size="14">Merge pull request #67 from SpillArena/development</text>
+<text x="50" y="220" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">17062e6</tspan></text>
+<text x="826" y="202" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="50" x2="826" y1="228.5" y2="228.5" stroke="#33372A"/><circle cx="33" cy="247" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="252" font-size="14">Add lighting zones, Nollie support and smoother effects</text>
-<text x="50" y="270" font-size="12" class="muted">EmilB04/LumaBridge<tspan class="sha mono" dx="10">c0d5b6e</tspan></text>
-<text x="826" y="252" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="50" y="252" font-size="14">docs(changelog): add 1.22.0 for storage choices, the shared footer and ad-free music games</text>
+<text x="50" y="270" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">eae4b3c</tspan></text>
+<text x="826" y="252" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="50" x2="826" y1="278.5" y2="278.5" stroke="#33372A"/><circle cx="33" cy="297" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="50" y="302" font-size="14">Merge pull request #5 from EmilB04/feature/final-model-evaluation</text>
-<text x="50" y="320" font-size="12" class="muted">EmilB04/Machine-Learning<tspan class="sha mono" dx="10">d4fb01f</tspan></text>
-<text x="826" y="302" text-anchor="end" font-size="12" class="muted">10. nov</text>
+<text x="50" y="302" font-size="14">Merge pull request #7 from SpillArena/development</text>
+<text x="50" y="320" font-size="12" class="muted">SpillArena/SipZone<tspan class="sha mono" dx="10">bb3d8ce</tspan></text>
+<text x="826" y="302" text-anchor="end" font-size="12" class="muted">12. nov</text>
 </svg>
