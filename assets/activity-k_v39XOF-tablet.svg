@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 12. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="48" font-size="14">feat: add theme management hook for light, dark, and syste…</text>
-<text x="46" y="66" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">cfa8252</tspan></text>
-<text x="576" y="48" text-anchor="end" font-size="12" class="muted">12. nov</text>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 13. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Merge pull request #1 from EmilB04/feat/recall-checker-and…</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">f3ccdc3</tspan></text>
+<text x="576" y="48" text-anchor="end" font-size="12" class="muted">13. nov</text>
 <line x1="46" x2="576" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="98" font-size="14">Rename learning platform to MasterPrep</text>
-<text x="46" y="116" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">dc79d57</tspan></text>
-<text x="576" y="98" text-anchor="end" font-size="12" class="muted">12. nov</text>
+<text x="46" y="98" font-size="14">feat: Audio Switch v1.0.0, switch the default audio device…</text>
+<text x="46" y="116" font-size="12" class="muted">EmilB04/StreamDeck<tspan class="sha mono" dx="10">828c975</tspan></text>
+<text x="576" y="98" text-anchor="end" font-size="12" class="muted">13. nov</text>
 <line x1="46" x2="576" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="148" font-size="14">Set up learning workspace and import Complex Systems course</text>
-<text x="46" y="166" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">6d7d4f3</tspan></text>
+<text x="46" y="148" font-size="14">chore: add dev:ai script and clarify Pages setup in README</text>
+<text x="46" y="166" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">d6f6659</tspan></text>
 <text x="576" y="148" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="46" x2="576" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="198" font-size="14">Merge pull request #67 from SpillArena/development</text>
-<text x="46" y="216" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">17062e6</tspan></text>
+<text x="46" y="198" font-size="14">feat: serve the recall checker as a Cloudflare Pages Funct…</text>
+<text x="46" y="216" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">2031940</tspan></text>
 <text x="576" y="198" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="46" x2="576" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="248" font-size="14">docs(changelog): add 1.22.0 for storage choices, the share…</text>
-<text x="46" y="266" font-size="12" class="muted">SpillArena/SpillArena<tspan class="sha mono" dx="10">eae4b3c</tspan></text>
+<text x="46" y="248" font-size="14">fix: build recall-check prompt server-side and restrict or…</text>
+<text x="46" y="266" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">6db2a75</tspan></text>
 <text x="576" y="248" text-anchor="end" font-size="12" class="muted">12. nov</text>
 <line x1="46" x2="576" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="298" font-size="14">Merge pull request #7 from SpillArena/development</text>
-<text x="46" y="316" font-size="12" class="muted">SpillArena/SipZone<tspan class="sha mono" dx="10">bb3d8ce</tspan></text>
+<text x="46" y="298" font-size="14">feat: add AI recall checker and global spotlight search</text>
+<text x="46" y="316" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">311d025</tspan></text>
 <text x="576" y="298" text-anchor="end" font-size="12" class="muted">12. nov</text>
 </svg>
