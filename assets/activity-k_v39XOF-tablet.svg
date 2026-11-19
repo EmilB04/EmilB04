@@ -14,28 +14,28 @@
 </style>
 <rect x="0" y="0" width="600" height="366" rx="28" fill="#1C1F15" stroke="#33372A" stroke-width="0" stroke-opacity="0"/>
 
-<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 18. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="48" font-size="14">Name both tested Python versions in README</text>
-<text x="46" y="66" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">1ad3861</tspan></text>
-<text x="576" y="48" text-anchor="end" font-size="12" class="muted">18. nov</text>
+<text x="576" y="338" text-anchor="end" font-size="12" class="muted">Oppdatert 19. nov. 2026</text><circle cx="29" cy="43" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
+<text x="46" y="48" font-size="14">Merge pull request #8 from EmilB04/feature/ml-illustration…</text>
+<text x="46" y="66" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">f912ef5</tspan></text>
+<text x="576" y="48" text-anchor="end" font-size="12" class="muted">19. nov</text>
 <line x1="46" x2="576" y1="74.5" y2="74.5" stroke="#33372A"/><circle cx="29" cy="93" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="98" font-size="14">Update README and requirements for Python version and depe…</text>
-<text x="46" y="116" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">6003034</tspan></text>
-<text x="576" y="98" text-anchor="end" font-size="12" class="muted">18. nov</text>
+<text x="46" y="98" font-size="14">Add interactive ML illustrations and hover definitions for…</text>
+<text x="46" y="116" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">b3d8c64</tspan></text>
+<text x="576" y="98" text-anchor="end" font-size="12" class="muted">19. nov</text>
 <line x1="46" x2="576" y1="124.5" y2="124.5" stroke="#33372A"/><circle cx="29" cy="143" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="148" font-size="14">Update README with correct formatting and lint</text>
-<text x="46" y="166" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">0e5ff31</tspan></text>
-<text x="576" y="148" text-anchor="end" font-size="12" class="muted">18. nov</text>
+<text x="46" y="148" font-size="14">Merge pull request #7 from EmilB04/feature/machine-learnin…</text>
+<text x="46" y="166" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">2dc251a</tspan></text>
+<text x="576" y="148" text-anchor="end" font-size="12" class="muted">19. nov</text>
 <line x1="46" x2="576" y1="174.5" y2="174.5" stroke="#33372A"/><circle cx="29" cy="193" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="198" font-size="14">Update README with additional badges and clarify quick sta…</text>
-<text x="46" y="216" font-size="12" class="muted">EmilB04/Complex-Systems<tspan class="sha mono" dx="10">ebe084c</tspan></text>
-<text x="576" y="198" text-anchor="end" font-size="12" class="muted">18. nov</text>
+<text x="46" y="198" font-size="14">Add Machine Learning lessons from lecture slides and Notio…</text>
+<text x="46" y="216" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">fc31027</tspan></text>
+<text x="576" y="198" text-anchor="end" font-size="12" class="muted">19. nov</text>
 <line x1="46" x2="576" y1="224.5" y2="224.5" stroke="#33372A"/><circle cx="29" cy="243" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="248" font-size="14">Merge pull request #5 from EmilB04/feature/scientific-meth…</text>
-<text x="46" y="266" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">a3ec966</tspan></text>
-<text x="576" y="248" text-anchor="end" font-size="12" class="muted">17. nov</text>
+<text x="46" y="248" font-size="14">Merge pull request #6 from EmilB04/feature/ai-agents-lectu…</text>
+<text x="46" y="266" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">b27681f</tspan></text>
+<text x="576" y="248" text-anchor="end" font-size="12" class="muted">18. nov</text>
 <line x1="46" x2="576" y1="274.5" y2="274.5" stroke="#33372A"/><circle cx="29" cy="293" r="3.5" fill="#1C1F15" stroke="#8E8C76" stroke-width="1.5"/>
-<text x="46" y="298" font-size="14">Add Scientific Methods lessons from Notion notes, slides a…</text>
-<text x="46" y="316" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">6469a52</tspan></text>
-<text x="576" y="298" text-anchor="end" font-size="12" class="muted">17. nov</text>
+<text x="46" y="298" font-size="14">Add AI agents lecture and fill Complex Systems exam gaps</text>
+<text x="46" y="316" font-size="12" class="muted">EmilB04/ExamPrep<tspan class="sha mono" dx="10">cfaa2a6</tspan></text>
+<text x="576" y="298" text-anchor="end" font-size="12" class="muted">18. nov</text>
 </svg>
